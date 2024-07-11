@@ -36,3 +36,5 @@ and then for an spdx that is linked run:
 This method will generate an SBOM in a file called "your app name"_"type".json
 
 If the app is not found an error message will be printed.
+
+Note: the PowerShell for HMAC Auth came from https://github.com/rafaelzm2000/VC_HMAC_Auth 
