@@ -15,10 +15,12 @@ Clone this repository:
 .\sbom_gen <arguments>
 ```
 
+```
 Arguments:
 app    : (required) Name of the application within Veracode
 type   : (optional) Type of SBOM to generate; valid values are 'cyclonedx' (default) or 'spdx'
 linked : (optional) Include components from linked projects or not; valid values are 'true' (default) or 'false'
+```
 
 ## Run
 
