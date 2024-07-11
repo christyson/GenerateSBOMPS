@@ -11,9 +11,9 @@ Clone this repository:
 
 ## Usage for a single app profile or and app profile with a sandbox
 
-...
+```
 .\sbom_gen <arguments>
-...
+```
 
 Arguments:
 app    : (required) Name of the application within Veracode
